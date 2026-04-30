@@ -12,7 +12,7 @@ http://localhost/association
 ## 📄 Documents
 
 - 📋 Cahier des charges : docs/Cahier de Charge Site_ClubAssos.pdf
-- 📊 Présentation : docs/Exposé PowerPoint Site Assos.pdf
+- 📊 Présentation : docs/Exposé PowerPoint Site Assos.pdf & pptx
 - 📘 Rapport : docs/Rapport_SiteClubAsso.pdf
 
 ## Technologies
