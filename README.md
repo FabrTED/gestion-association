@@ -9,6 +9,12 @@ Site web dynamique de gestion d'association (PHP / MySQL)
 4. Aller sur :
 http://localhost/association
 
+## 📄 Documents
+
+- 📊 Présentation : docs/Exposé PowerPoint Site Assos.pdf
+- 📘 Rapport : docs/Rapport_SiteClubAsso.pdf
+- 📋 Cahier des charges : docs/Cahier de Charge Site_ClubAssos.pdf
+
 ## Technologies
 - PHP
 - MySQL
